@@ -1,6 +1,7 @@
 # 🧠 AI Customer Feedback RAG Pipeline
 
-<img width="250" height="350" alt="53aac6f2-8210-4443-87cd-85a77f797f1d" src="https://github.com/user-attachments/assets/4c50e008-fe32-433c-84ee-a53da72841e5" />
+<img width="250" height="350" alt="53aac6f2-8210-4443-87cd-85a77f797f1d" src="https://github.com/user-attachments/assets/539bb000-051c-4cc8-a4df-efba4cfb4c9f" />
+
 
 A multilingual AI pipeline that processes customer reviews end-to-end and generates **actionable next steps** for business teams using RAG, FAISS, and automation tools.
 
@@ -104,4 +105,3 @@ A compact demonstration of:
 
 ---
 
-If you'd like, I can generate a **simple diagram**, **banner image**, or **project logo** to match this README.
